@@ -26,7 +26,3 @@ I'm a passionate front-end developer and UX/UI designer specializing in creating
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/kabelomaitisa1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kabelodesigns777@gmail.com)
 
-Update README with skills, projects, and contact info
-
-
-
