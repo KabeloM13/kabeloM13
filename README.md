@@ -1,4 +1,7 @@
-# Hi, I'm Kabelo 👋
+<p align="center">
+  Hi, I'm Kabelo <img src="https://github.com/rahuldkjain/gh-profile-readme-generator/blob/master/src/images/hi.gif" width="40px" />
+</p>
+
 
 ## 👨‍💻 About Me
 I'm a passionate front-end developer & UX/UI designer building responsive apps with HTML, CSS, JavaScript, React, and Figma.
