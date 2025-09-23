@@ -24,6 +24,9 @@ I'm a passionate front-end developer & UX/UI designer building responsive apps w
 ## 🤖 Interested in
 - Integrating AI into web applications  
 
+## 📈 GitHub Stats
+![Kabelo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KabeloM13&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KabeloM13&layout=compact&theme=radical)
 
 
 
