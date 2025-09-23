@@ -12,6 +12,19 @@ I'm a passionate front-end developer and UX/UI designer specializing in creating
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## 📚 Learning
+- Blockchain (Ethereum, Hyperledger)  
+- Blockchain Cryptography  
+- Blockchain Storage  
+- Ethereum  
+- Smart Contract Basics  
+- Solidity  
+- Solidity Core  
+- Solidity Governance  
+
+## 🤖 Interested in
+- Integrating AI into web applications  
+
 ## 🔗 Projects
 - [Portfolio Website](https://github.com/kabsM13/portfolio)
 - [E-Commerce UI](https://github.com/kabsM13/ecommerce-ui)
