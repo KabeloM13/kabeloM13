@@ -12,8 +12,9 @@ I'm a passionate front-end developer and UX/UI designer specializing in creating
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📚 Learning
+## 🌱 I'm learning
 - Web3 & Blockchain Developer Course (Ethereum, Solidity, Smart Contracts)
+
  
 
 ## 🤖 Interested in
