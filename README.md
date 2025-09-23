@@ -1,4 +1,4 @@
-# Hi, I'm Kabelo 👋
+<center>Hi, I'm Kabelo 👋 (waving)</center>
 
 ## 👨‍💻 About Me
 I'm a passionate front-end developer & UX/UI designer building responsive apps with HTML, CSS, JavaScript, React, and Figma.
