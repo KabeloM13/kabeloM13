@@ -13,14 +13,8 @@ I'm a passionate front-end developer and UX/UI designer specializing in creating
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📚 Learning
-- Blockchain (Ethereum, Hyperledger)  
-- Blockchain Cryptography  
-- Blockchain Storage  
-- Ethereum  
-- Smart Contract Basics  
-- Solidity  
-- Solidity Core  
-- Solidity Governance  
+- Web3 & Blockchain Developer Course (Ethereum, Solidity, Smart Contracts)
+ 
 
 ## 🤖 Interested in
 - Integrating AI into web applications  
