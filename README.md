@@ -19,11 +19,6 @@ I'm a passionate front-end developer and UX/UI designer specializing in creating
 ## 🤖 Interested in
 - Integrating AI into web applications  
 
-## 🔗 Projects
-- [Portfolio Website](https://github.com/kabsM13/portfolio)
-- [E-Commerce UI](https://github.com/kabsM13/ecommerce-ui)
-- [Interactive Dashboard](https://github.com/kabsM13/dashboard)
-
 ## 📈 GitHub stats
 ![Kabelo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kabsM13&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kabsM13&layout=compact&theme=radical)
