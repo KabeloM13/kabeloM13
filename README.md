@@ -13,10 +13,9 @@ I'm a passionate front-end developer and UX/UI designer specializing in creating
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🌱 I'm learning
-- Web3 & Blockchain Developer Course (Ethereum, Solidity, Smart Contracts)
+- Web3 & Blockchain Developer (Ethereum, Solidity, Smart Contracts)
 
  
-
 ## 🤖 Interested in
 - Integrating AI into web applications  
 
