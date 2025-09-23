@@ -1,7 +1,7 @@
 # Hi, I'm Kabelo 👋
 
 ## 👨‍💻 About Me
-I'm a passionate front-end developer and UX/UI designer specializing in creating responsive and interactive web applications using HTML, CSS, JavaScript, and React. I enjoy turning designs into functional, user-friendly interfaces.
+I'm a passionate front-end developer & UX/UI designer building responsive apps with HTML, CSS, JavaScript, React, and Figma.
 
 ## 🛠️ Skills
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
