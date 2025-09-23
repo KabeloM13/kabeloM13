@@ -12,6 +12,10 @@ I'm a passionate front-end developer & UX/UI designer building responsive apps w
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## 🧑‍🚀 I'm working on
+- Projects for freelance clients  
+- Pinterest & YouTube account management and content creation
+
 ## 🌱 I'm learning
 - Web3 & Blockchain Development (Ethereum, Solidity, Smart Contracts)
  
