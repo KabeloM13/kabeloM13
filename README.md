@@ -24,11 +24,8 @@ I'm a passionate front-end developer & UX/UI designer building responsive apps w
 ## 🤖 Interested in
 - Integrating AI into web applications  
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kabsM13&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabsM13&layout=compact&theme=radical" />
-</p>
+
+
 
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kabelo-m-9a0555128/)
