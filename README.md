@@ -3,7 +3,7 @@
 
 
 ## 👨‍💻 About Me
-I'm a passionate front-end developer & UX/UI designer building responsive apps with HTML, CSS, JavaScript, React, and Figma.
+I'm a passionate front-end developer & UX/UI Product designer building responsive apps with HTML, CSS, JavaScript, React, and Figma.
 
 ## 🛠️ Skills
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
