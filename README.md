@@ -24,16 +24,16 @@ I'm a passionate front-end developer and UX/UI designer specializing in creating
 - [E-Commerce UI](https://github.com/kabsM13/ecommerce-ui)
 - [Interactive Dashboard](https://github.com/kabsM13/dashboard)
 
-## 📈 GitHub Stats
+## 📈 GitHub stats
 ![Kabelo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kabsM13&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kabsM13&layout=compact&theme=radical)
 
-## 📫 Contact Me
+## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kabelo-m-9a0555128/)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/kabelomaitisa1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kabelodesigns777@gmail.com)
 
-## 🎉 Fun Facts
-- I can code for hours as long as I have coffee ☕ 
+## ⚡ Fun Facts
+- I'm definitely not a cat person 🐶  
 
 
