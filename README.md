@@ -6,6 +6,7 @@
 ---
 
 👨‍💻 About Me
+
 I'm a passionate front-end developer & UX/UI Product designer building responsive apps with HTML, CSS, JavaScript, React, and Figma.
 
 ---
