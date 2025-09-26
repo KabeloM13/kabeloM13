@@ -43,9 +43,12 @@
 
 ---
 
-## 🧑‍🚀 I'm working on
-- Projects for freelance clients  
-- Pinterest & YouTube account management and content creation
+## 🧑‍🚀 What I'm working on:
+
+- Delivering freelance projects for clients
+- Creating and managing content on Pinterest and YouTube
+- Learning and experimenting with AI & Machine Learning technologies
+- Developing decentralized applications (dApps) on the Ethereum blockchain
 
 ---
 
