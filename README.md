@@ -1,11 +1,23 @@
-<div style="background-color:#0d1117; color:#c9d1d9; padding:20px; border-radius:10px; text-align:center; font-family:monospace;">
-
+```markdown
 # HI, I'M KABELO 👋
-
 ## 👨‍💻 ABOUT ME
 I'M A PASSIONATE FRONT-END DEVELOPER & UX/UI PRODUCT DESIGNER BUILDING RESPONSIVE APPS WITH HTML, CSS, JAVASCRIPT, REACT, AND FIGMA.
 
-</div>
+
+- GitHub renders **code blocks with a dark background** automatically in dark mode.  
+- Text remains fully capitalized.  
+- Simple, safe, and works everywhere.  
+
+---
+
+### 2️⃣ Use **bold/emoji styling** for emphasis  
+You can make it pop without relying on background colors:
+
+```markdown
+# **HI, I'M KABELO 👋**
+## **👨‍💻 ABOUT ME**
+**I'M A PASSIONATE FRONT-END DEVELOPER & UX/UI PRODUCT DESIGNER BUILDING RESPONSIVE APPS WITH HTML, CSS, JAVASCRIPT, REACT, AND FIGMA.**
+
 
 
 ---
