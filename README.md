@@ -1,9 +1,12 @@
-# Hi, I'm Kabelo 👋
+<div style="background-color:#0d1117; color:#c9d1d9; padding:20px; border-radius:10px; text-align:center; font-family:monospace;">
 
+# HI, I'M KABELO 👋
 
+## 👨‍💻 ABOUT ME
+I'M A PASSIONATE FRONT-END DEVELOPER & UX/UI PRODUCT DESIGNER BUILDING RESPONSIVE APPS WITH HTML, CSS, JAVASCRIPT, REACT, AND FIGMA.
 
-## 👨‍💻 About Me
-I'm a passionate front-end developer & UX/UI Product designer building responsive apps with HTML, CSS, JavaScript, React, and Figma.
+</div>
+
 
 ---
 
