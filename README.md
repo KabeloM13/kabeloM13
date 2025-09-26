@@ -1,5 +1,5 @@
 
-# Energy Vibration Effect
+# Hi, I'm Kabelo 
 
 <p align="center">
   <img src="assets/energy-vibration-grey.gif" alt="Energy Vibration Animation" width="600">
