@@ -1,4 +1,10 @@
-# Hi, I'm Kabelo 👋
+<div align="center">
+
+![Sky](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Clouds_in_the_sky.jpg/600px-Clouds_in_the_sky.jpg)
+
+</div>
+
+
 
 
 ---
