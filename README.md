@@ -52,8 +52,9 @@
 
 ---
 
-## 🌱 I'm learning
+## 🌱 I’m currently learning:
 - Web3 & Blockchain Development (Ethereum, Solidity, Smart Contracts)
+- AI & Machine Learning applications
 
 ---
  
