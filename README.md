@@ -79,6 +79,4 @@
 ---
 
 ## ⚡ Fun Facts
-- I'm definitely not a cat person 🐶  
-
-
+- Coffee fuels my coding sessions ☕
