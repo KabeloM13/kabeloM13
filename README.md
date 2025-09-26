@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Kabelo ⭐</h1>
 
 
-
-
-
-
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&background=FFFFFF&width=820&lines=AI+-+Front-End+Developer+%26+UX%2FUI+Product+Designer)
@@ -20,7 +16,10 @@
   <p>I build <strong>responsive, user-friendly apps</strong> with <strong>HTML, CSS, JavaScript, React</strong>, and <strong>Figma</strong>.</p>
   <p>With <strong>10+ years of experience</strong>, I create <strong>intuitive digital experiences</strong> and thrive in collaborative teams.</p>
   <p>Currently exploring <strong>Ethereum Blockchain Development</strong> and working on freelance projects.</p>
-  <p style="color: #1E90FF;">✨ Passionate about <strong>design + code + strategy</strong> to craft meaningful experiences.</p>
+  <p style="color: #1E90FF; background-color: #ffffff; font-family: 'Inter', sans-serif; padding: 8px; border-radius: 4px;">
+  ✨ Passionate about <strong>design + code + strategy</strong> to craft meaningful experiences.
+</p>
+
   <!-- Portfolio Button -->
   <p>
     <a href="https://www.behance.net/kabelomaitisa1" target="_blank" 
