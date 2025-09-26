@@ -1,11 +1,4 @@
-<div align="center">
-
-![Sky](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Clouds_in_the_sky.jpg/600px-Clouds_in_the_sky.jpg)
-
-</div>
-
-
-
+![Energy Vibration](https://media.giphy.com/media/3o7aD6t5UuQ7m2L8xO/giphy.gif)
 
 ---
 
