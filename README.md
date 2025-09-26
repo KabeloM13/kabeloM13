@@ -1,5 +1,17 @@
 <h1 align="center">Hi, I'm Kabelo ⭐</h1>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=1E90FF&background=FFFFFF&width=820&lines=AI+-+Front-End+Developer+%26+UX%2FUI+Product+Designer%0AI+love+learning+new+things+and+exploring+innovative+solutions%0AI+enjoy+coding,+creating+designs,+and+sipping+coffee+while+brainstorming+ideas&pause=4000" alt="Typing SVG"/>
+</div>
+
+
+
+
+
+
+
+
+---
 
 <div align="center">
 
