@@ -4,6 +4,21 @@
 ---
 
 
+<div align="center">
+
+<!-- First part: AI - Front-End Developer & (blue) -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=1E90FF&background=FFFFFF&width=450&lines=AI+-+Front-End+Developer+&)
+
+<!-- Second part: UX/UI Product Design (black, smaller font) -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=000000&background=FFFFFF&width=400&lines=UX/UI+Product+Design)
+
+</div>
+
+
+
+---
+
+
 ## 👨‍💻 About me
 
 
