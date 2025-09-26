@@ -1,3 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Smoke Animation</title>
+<style>
+  body {
+    margin: 0;
+    height: 100vh;
+    background: #0a0a0a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+  }
+
+  .smoke {
+    position: absolute;
+    bottom: 0;
+    width: 100px;
+    height: 100px;
+    background: radial-gradient(circle, rgba(255,255,255,0.3) 0%, rgba(255,255,255,0) 70%);
+    border-radius: 50%;
+    animation: rise 8s linear infinite, drift 6s ease-in-out infinite;
+  }
+
+  .smoke:nth-child(2) {
+    width: 120px;
+    height: 120px;
+    animation-delay: 2s;
+    opacity: 0.25;
+  }
+
+  .smoke:nth-child(3) {
+    width: 80px;
+    height: 80px;
+    animation-delay: 4s;
+    opacity: 0.2;
+  }
+
+  @keyframes rise {
+    0% { transform: translateY(0) scale(1); opacity: 0.3; }
+    50% { transform: translateY(-200px) scale(1.2); opacity: 0.2; }
+    100% { transform: translateY(-400px) scale(1.5); opacity: 0; }
+  }
+
+  @keyframes drift {
+    0%, 100% { transform: translateX(0); }
+    50% { transform: translateX(40px); }
+  }
+</style>
+</head>
+<body>
+
+<div class="smoke"></div>
+<div class="smoke"></div>
+<div class="smoke"></div>
+
+</body>
+</html>
+
+
+
+
 
 # Hi, I'm Kabelo 
 
