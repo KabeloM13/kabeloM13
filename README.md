@@ -1,5 +1,5 @@
-# HI, I'M KABELO 👋
-
+# Hi, I'm Kabelo 👋
+ 
 ---
 
 👨‍💻 About Me
