@@ -1,4 +1,5 @@
 # Hi, I'm Kabelo 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=4FC3F7&background=0D1117&width=700&lines=kabelo maitisa;ai – front-end developer & ux/ui product designer)
 
 
 
