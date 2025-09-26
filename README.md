@@ -66,8 +66,8 @@
 ---
 
 ## 📈 GitHub Stats
-![Kabelo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KabeloM13&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KabeloM13&layout=compact&theme=radical)
+![Kabelo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KabeloM13&show_icons=true&bg_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KabeloM13&layout=compact&bg_color=ffffff)
 
 ---
 
