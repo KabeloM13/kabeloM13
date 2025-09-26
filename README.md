@@ -59,7 +59,9 @@
 ---
  
 ## 🤖 Interested in
-- Integrating AI into web applications  
+- Crafting intuitive and engaging UI/UX designs
+- Building responsive and interactive web applications
+- Exploring AI, Web3, and emerging front-end technologies
 
 ---
 
