@@ -1,4 +1,11 @@
 
+# Energy Vibration Effect
+
+<p align="center">
+  <img src="assets/energy-vibration-grey.gif" alt="Energy Vibration Animation" width="600">
+</p>
+
+
 
 ---
 
