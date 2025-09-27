@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Kabelo ⭐</h1>
 
 
-<img src="https://link-to-your-animated-cat-mouse.svg" />
+
+
+
 
 
 
