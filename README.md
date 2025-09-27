@@ -88,14 +88,18 @@
 
 ---
 
-<div style="background-color:#1a1a1a; padding:50px; border-radius:15px; font-family:Arial, sans-serif; text-align:center;">
+<div style="background-color:#1a1a1a; padding:50px; border-radius:15px; font-family:Arial, sans-serif; text-align:right;">
 
-  <!-- Typing AI line in bright blue, tech-style font, smaller size -->
+  <!-- Typing AI line in bold brown, tech-style font, slightly bigger, aligned right -->
   <div>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=0A1172&background=FFFFFF&width=1000&lines=Exploring+the+future+of+design+with+AI+and+creativity" style="display:block; margin-left:auto; margin-right:auto;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=A0522D&background=FFFFFF&width=1000&font_weight=bold&lines=Exploring+the+future+of+design+with+AI+and+creativity" style="display:block; margin-left:auto; margin-right:0;" />
   </div>
 
 </div>
+
+
+
+
 
 
 
