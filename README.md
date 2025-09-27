@@ -86,10 +86,22 @@
 
 <div align="center" style="background-color:#1a1a1a; padding:50px; border-radius:15px; font-family:Arial, sans-serif; text-align:center;">
 
-  <!-- Typing paragraph with small font, white background -->
+  <!-- Typing paragraph centered -->
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=0A1172&background=FFFFFF&width=900&lines=I+am+a+self-taught+front-end+developer+and+I+love+learning+new+things" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=0A1172&background=FFFFFF&width=1000&lines=I+am+a+self-taught+front-end+developer+and+I+love+learning+new+things" />
   </p>
+
+<p align="right">
+  <img src="https://your-hosted-image-link.png" alt="AI line in handwriting font" />
+</p>
+
+
+
+</div>
+
+
+
+
 
 
 
