@@ -85,4 +85,5 @@
 ---
 
 
+![Cat chasing mouse](assets/cat-mouse.gif)
 
