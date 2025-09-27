@@ -91,13 +91,13 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=0A1172&background=FFFFFF&width=1000&lines=I+am+a+self-taught+front-end+developer+and+I+love+learning+new+things" />
   </p>
 
-<p align="right">
-  <img src="https://your-hosted-image-link.png" alt="AI line in handwriting font" />
-</p>
-
-
+  <!-- Bold AI line aligned right in light grey with Georgia font -->
+  <p align="right" style="color:#B0B0B0; font-size:18px; font-weight:bold; font-family:Georgia, serif; margin-top:20px; margin-right:50px;">
+    Exploring the future of design with AI and creativity.
+  </p>
 
 </div>
+
 
 
 
