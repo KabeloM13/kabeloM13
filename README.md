@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Kabelo ⭐</h1>
 
 
+<img src="https://link-to-your-animated-cat-mouse.svg" />
+
+
+
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&background=FFFFFF&width=820&lines=AI+-+Front-End+Developer+%26+UX%2FUI+Product+Designer)
