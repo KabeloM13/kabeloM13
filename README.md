@@ -86,12 +86,13 @@
 
 <div style="background-color:#1a1a1a; padding:50px; border-radius:15px; font-family:Arial, sans-serif; text-align:center;">
 
-  <!-- Typing AI line perfectly centered in brown -->
+  <!-- Typing AI line perfectly centered in tech-style code font, smaller size -->
   <div>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=20&pause=1000&color=A0522D&background=FFFFFF&width=1000&lines=Exploring+the+future+of+design+with+AI+and+creativity" style="display:block; margin-left:auto; margin-right:auto;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=A0522D&background=FFFFFF&width=1000&lines=Exploring+the+future+of+design+with+AI+and+creativity" style="display:block; margin-left:auto; margin-right:auto;" />
   </div>
 
 </div>
+
 
 
 
