@@ -11,10 +11,9 @@
 ---
 
 
-
-<section style="font-family: 'Inter', sans-serif; direction: rtl; text-align: right; line-height: 1.7; color: #A9746E; max-width: 700px; margin: 0 auto;">
+<section style="font-family: 'Inter', sans-serif; direction: rtl; text-align: right; line-height: 1.7; color: #CBB3A2; max-width: 700px; margin: 0 auto;">
   <h2 style="color: #111111; font-size: 26px; margin-bottom: 16px;">👨‍💻 About Me</h2>
-  <p>I'm a <strong style="color: #1E90FF;">Front-End Developer</strong> & <strong style="color: #1E90FF;">UX/UI Designer</strong> from <em>Johannesburg, South Africa</em>.</p>
+  <p>I'm a <strong style="color: #1E90FF;">Front-End Developer</strong> & <strong style="color: #1E90FF;">UX/UI Product Designer</strong> from <em>Johannesburg, South Africa</em>.</p>
   <p>I build <strong>responsive, user-friendly apps</strong> with <strong>HTML, CSS, JavaScript, React</strong>, and <strong>Figma</strong>.</p>
   <p>With <strong>5+ years of experience</strong>, I create <strong>intuitive digital experiences</strong> and thrive in collaborative teams.</p>
   <p>Currently exploring <strong>Ethereum Blockchain Development</strong> and working on freelance projects.</p>
