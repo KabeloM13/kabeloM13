@@ -84,19 +84,16 @@
 
 ---
 
-<div align="center" style="background-color:#1a1a1a; padding:50px; border-radius:15px; font-family:Arial, sans-serif; text-align:center;">
+<div style="background-color:#1a1a1a; padding:50px; border-radius:15px; font-family:Arial, sans-serif; text-align:center;">
 
-  <!-- Typing paragraph centered in blue -->
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=0A1172&background=FFFFFF&width=1000&lines=I+am+a+self-taught+front-end+developer+and+I+love+learning+new+things" />
-  </p>
-
-  <!-- Bold and italic AI line centered in brown -->
-  <p align="center" style="color:#A0522D; font-size:20px; font-weight:bold; font-style:italic; font-family:Georgia, serif; margin-top:20px;">
-    Exploring the future of design with AI and creativity.
-  </p>
+  <!-- Typing AI line perfectly centered in brown -->
+  <div style="text-align:center;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=20&pause=1000&color=A0522D&background=FFFFFF&width=1000&lines=Exploring+the+future+of+design+with+AI+and+creativity" style="display:inline-block;" />
+  </div>
 
 </div>
+
+
 
 
 
