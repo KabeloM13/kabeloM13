@@ -66,8 +66,12 @@
 ---
 
 ## 📈 GitHub Stats
-![Kabelo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KabeloM13&show_icons=true&bg_color=ffffff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KabeloM13&layout=compact&bg_color=ffffff)
+
+<!-- Main GitHub Stats with green icons only -->
+![Kabelo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KabeloM13&show_icons=true&bg_color=ffffff&icon_color=00FF00)
+
+<!-- Top Languages with green icons only -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KabeloM13&layout=compact&bg_color=ffffff&icon_color=00FF00)
 
 ---
 
