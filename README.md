@@ -86,17 +86,20 @@
 
 <div align="center" style="background-color:#1a1a1a; padding:50px; border-radius:15px; font-family:Arial, sans-serif; text-align:center;">
 
-  <!-- Typing paragraph centered -->
+  <!-- Typing paragraph centered in blue -->
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=0A1172&background=FFFFFF&width=1000&lines=I+am+a+self-taught+front-end+developer+and+I+love+learning+new+things" />
   </p>
 
-  <!-- Bold AI line aligned right in light grey with Georgia font -->
-  <p align="right" style="color:#B0B0B0; font-size:18px; font-weight:bold; font-family:Georgia, serif; margin-top:20px; margin-right:50px;">
+  <!-- Bold and italic AI line centered in brown -->
+  <p align="center" style="color:#A0522D; font-size:20px; font-weight:bold; font-style:italic; font-family:Georgia, serif; margin-top:20px;">
     Exploring the future of design with AI and creativity.
   </p>
 
 </div>
+
+
+
 
 
 
