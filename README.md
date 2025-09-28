@@ -41,7 +41,11 @@
 
 🎧 [Watch & Listen on YouTube](https://youtu.be/8suoPIJekTQ?si=I44enLvVbigTKAsy)  
 
- CHILL LOFI MIX ★︎ MIND POWER 
+<div align="right">
+
+<p align="right"><strong style="text-transform: uppercase;">Chill Lofi Mix ★︎ Mind Power</strong></p>
+
+</div>
 
 </div>
 
