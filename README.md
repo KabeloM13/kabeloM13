@@ -84,18 +84,6 @@
 [![Listen on YouTube](https://img.shields.io/badge/Listen%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/8suoPIJekTQ?si=jtZ8MKrFGjm3krEO)
 
 
-<div align="right">
-
-🎧 [Watch & Listen on YouTube](https://youtu.be/8suoPIJekTQ?si=I44enLvVbigTKAsy)  
-
-<div align="right">
-
-<p align="right"><strong style="text-transform: uppercase;">Chill Lofi Mix ★︎ Mind Power</strong></p>
-
-</div>
-
-</div>
-
 
 ---
 
