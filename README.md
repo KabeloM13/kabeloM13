@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Kabelo ⭐</h1>
 
 
----
-
-
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&background=FFFFFF&width=820&lines=AI+-+Front-End+Developer+%26+UX%2FUI+Product+Designer)
@@ -34,23 +31,8 @@
 </section>
 
 
-
-
-
-<div align="right">
-
-🎧 [Watch & Listen on YouTube](https://youtu.be/8suoPIJekTQ?si=I44enLvVbigTKAsy)  
-
-<div align="right">
-
-<p align="right"><strong style="text-transform: uppercase;">Chill Lofi Mix ★︎ Mind Power</strong></p>
-
-</div>
-
-</div>
-
-
 ---
+
 
 ## 🛠️ Skills
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -99,6 +81,21 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kabelo-m-9a0555128/)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/kabelomaitisa1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kabelodesigns777@gmail.com)
+[![Listen on YouTube](https://img.shields.io/badge/Listen%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/8suoPIJekTQ?si=jtZ8MKrFGjm3krEO)
+
+
+<div align="right">
+
+🎧 [Watch & Listen on YouTube](https://youtu.be/8suoPIJekTQ?si=I44enLvVbigTKAsy)  
+
+<div align="right">
+
+<p align="right"><strong style="text-transform: uppercase;">Chill Lofi Mix ★︎ Mind Power</strong></p>
+
+</div>
+
+</div>
+
 
 ---
 
@@ -116,7 +113,6 @@
   </div>
 
 </div>
-
 
 
 
