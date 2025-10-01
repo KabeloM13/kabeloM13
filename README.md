@@ -10,14 +10,11 @@
 </pre>
 
 
----
-
-
-![Time](https://img.shields.io/badge/dynamic/json?url=https://worldtimeapi.org/api/timezone/Africa/Johannesburg&label=South%20Africa%20Time&query=datetime&color=blue)
 
 
 
----
+
+
 
 
 
