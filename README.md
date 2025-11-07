@@ -123,17 +123,6 @@
 
 
 
-<div style="text-align:center; margin-top:20px; margin-bottom:20px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=A0522D&background=FFFFFF&width=800&font_weight=bold&lines=This+project+highlights+how+blockchain+technology+can+create+trust,+accountability,+and+transparency+in+charitable+giving." />
-</div>
-
-
-
-
-
-
-
-
 
 
 
