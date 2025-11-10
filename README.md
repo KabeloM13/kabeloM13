@@ -27,6 +27,7 @@
 
 ---
 
+<br>
 
 <section style="font-family: 'Inter', sans-serif; direction: rtl; text-align: right; line-height: 1.7; color: #CBB3A2; max-width: 700px; margin: 0 auto;">
   <h2 style="color: #111111; font-size: 26px; margin-bottom: 16px;">👨‍💻 ABOUT ME</h2>
@@ -48,7 +49,14 @@
 </section>
 
 
+<br>
+
+
 ---
+
+
+<br>
+
 
 
 ## 🛠️ SKILLS
@@ -60,7 +68,16 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+
+<br>
+
+
 ---
+
+
+<br>
+
+
 
 ## 🧑‍🚀 WHAT I'M WORKING ON
 
@@ -69,20 +86,46 @@
 - Learning and experimenting with AI & Machine Learning technologies
 - Developing decentralized applications (dApps) on the Ethereum blockchain
 
+
+<br>
+
+
 ---
+
+
+<br>
+
+
 
 ## 🌱I’M CURRENTLY LEARNING
 - Web3 & Blockchain Development (Ethereum, Solidity, Smart Contracts)
 - AI & Machine Learning applications
 
+
+<br>
+
+
 ---
+
+
+<br>
+
  
 ## 🤖 INTERESTED IN
 - Crafting intuitive and engaging UI/UX designs
 - Building responsive and interactive web applications
 - Exploring AI, Web3, and emerging front-end technologies
 
+
+<br>
+
+
 ---
+
+
+<br>
+
+
 
 ## 📈 GITHUB STATS
 
@@ -92,7 +135,16 @@
 <!-- Top Languages with brown icons -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KabeloM13&layout=compact&bg_color=ffffff&icon_color=A0522D)
 
+
+<br>
+
+
 ---
+
+
+<br>
+
+
 
 ## 📫 HOW TO REACH ME
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kabelo-m-9a0555128/)
@@ -101,16 +153,27 @@
 [![Chill Wave Studio](https://img.shields.io/badge/Chill%20Wave%20Studio-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/8suoPIJekTQ?si=jtZ8MKrFGjm3krEO)
 
 
-
-
+<br>
 
 ---
+
+
+<br>
+
 
 ## ⚡ FUN FACTS
 - Coffee fuels my coding sessions ☕
 - I love spending time in nature 🌿🌞
 
+
+<br>
+
+
 ---
+
+
+<br>
+
 
 <div style="background-color:#1a1a1a; padding:50px; border-radius:15px; font-family:Arial, sans-serif; text-align:right;">
 
