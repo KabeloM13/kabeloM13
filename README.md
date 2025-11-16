@@ -176,10 +176,11 @@
 
   <!-- Typing AI line in bold brown, tech-style font, slightly bigger, aligned right -->
   <div>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=A0522D&background=FFFFFF&width=1000&font_weight=bold&lines=Exploring+the+future+of+design+with+AI+and+creativity" style="display:block; margin-left:auto; margin-right:0;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=A0522D&background=FFFFFF&width=1000&font_weight=bold&lines=Open+to+collaborating+on+frontend+%26+product+design" style="display:block; margin-left:auto; margin-right:0;" />
   </div>
 
 </div>
+
 
 
 
