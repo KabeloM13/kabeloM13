@@ -122,12 +122,15 @@
 
 <br>
 
+## 🌱 I'M CURRENTLY LEARNING
 
-
-## 🌱I’M CURRENTLY LEARNING
+- Data, AI & ML Engineering and real-world applications in modern products
 - Web3 & Blockchain Development (Ethereum, Solidity, Smart Contracts)
 - AI & Machine Learning applications
-
+- Advancing skills in UI & Visual Design and Design Systems
+- Strengthening CX/UX/UI Product Design for better user experiences
+- Improving Front-End Development (React, JavaScript, HTML, CSS)
+- Exploring Web3 integration in front-end applications
 
 <br>
 
