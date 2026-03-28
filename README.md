@@ -23,37 +23,49 @@
 
 
 ---
-
 <br>
 
 <section style="font-family: 'Inter', sans-serif; direction: rtl; text-align: right; line-height: 1.7; color: #CBB3A2; max-width: 700px; margin: 0 auto;">
+
   <h2 style="color: #111111; font-size: 26px; margin-bottom: 16px;">👨‍💻 ABOUT ME</h2>
-  <p>I'm a <strong style="color: #1E90FF;">Front-End Developer</strong> & <strong style="color: #1E90FF;">UX/UI Product Designer</strong> from <em>Johannesburg, South Africa</em>.</p>
-  <p>I build <strong>responsive, user-friendly apps</strong> with <strong>HTML, CSS, JavaScript, React</strong>, and <strong>Figma</strong>.</p>
-  <p>With <strong>5+ years of experience</strong>, I create <strong>intuitive digital experiences</strong> and thrive in collaborative teams.</p>
-  <p>Currently exploring <strong>Ethereum Blockchain Development</strong> and working on freelance projects.</p>
-  <p style="color: #1E90FF; background-color: #ffffff; font-family: 'Inter', sans-serif; padding: 8px; border-radius: 4px;">
-    ✨ Passionate about <strong>design + code + strategy</strong> to craft meaningful experiences.
+
+  <p>
+    I’m a <strong style="color: #1E90FF;">Data, AI & ML Engineering enthusiast</strong>, 
+    <strong style="color: #1E90FF;">UI & Visual Designer</strong>, and 
+    <strong style="color: #1E90FF;">UX/Product Designer</strong> from 
+    <em>Johannesburg, South Africa</em>.
+  </p>
+
+  <p>
+    I design and build <strong>user-centered digital experiences</strong>, combining 
+    <strong>data, design systems, and front-end development</strong> using tools like 
+    <strong>React, JavaScript, HTML, CSS, Figma, and AI/ML tools such as Python, TensorFlow, and OpenAI APIs</strong>.
+  </p>
+
+  <p>
+    With experience across <strong>UX/UI, product design, and front-end development</strong>, I focus on creating 
+    <strong>intuitive, responsive, and meaningful digital products</strong> that solve real user problems.
+  </p>
+
+  <p>
+    Currently expanding into <strong>Web3 and Ethereum blockchain development</strong>, while working on freelance and collaborative projects.
+  </p>
+
+  <p style="color: #1E90FF; background-color: #ffffff; padding: 8px; border-radius: 4px;">
+    ✨ Passionate about the intersection of <strong>data, AI, design, and technology</strong> to build impactful digital experiences.
   </p>
 
   <!-- Portfolio Button -->
   <p>
     <a href="https://www.behance.net/kabelomaitisa1" target="_blank" 
-       style="display: inline-block; background-color: #1E90FF; color: #ffffff; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: 600; transition: background-color 0.3s;">
+       style="display: inline-block; background-color: #1E90FF; color: #ffffff; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: 600;">
       View Portfolio
     </a>
   </p>
+
 </section>
 
-
 <br>
-
-
----
-
-
-<br>
-
 
 
 ## 🛠️ SKILLS
