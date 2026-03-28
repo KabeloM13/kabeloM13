@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&background=FFFFFF&width=820&lines=AI+-+Front-End+Developer+%26+UX%2FUI+Product+Designer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&background=FFFFFF&width=820&lines=Data,+AI+%26+ML+%7C+UI+Specialist+%7C+CX%2FUX%2FUI+Product+Designer+%7C+Front-End+%26+Web3+Development)
 
 </div>
 
