@@ -104,15 +104,15 @@
 
 <br>
 
-
-
 ## 🧑‍🚀 WHAT I'M WORKING ON
 
-- Delivering freelance projects for clients
+- Working as a **Senior Digital Media Manager**, driving content strategy, digital growth, and multi-platform brand engagement
+- Delivering freelance projects for clients across design and front-end development
 - Creating and managing content on Pinterest and YouTube
-- Learning and experimenting with AI & Machine Learning technologies
-- Developing decentralized applications (dApps) on the Ethereum blockchain
-
+- Exploring and applying **Data, AI & ML Engineering** in real-world use cases
+- Designing **UI & Visual systems** and improving **CX/UX/UI product experiences**
+- Building responsive interfaces using **Front-End development (React, JavaScript, HTML, CSS)**
+- Developing decentralized applications (**dApps**) on the **Ethereum blockchain (Web3)**
 
 <br>
 
