@@ -140,12 +140,15 @@
 
 <br>
 
- 
 ## 🤖 INTERESTED IN
-- Crafting intuitive and engaging UI/UX designs
-- Building responsive and interactive web applications
-- Exploring AI, Web3, and emerging front-end technologies
 
+- Data, AI & ML Engineering and how it can be applied to real-world digital products
+- AI trends, tools, and emerging technologies shaping design and development
+- Crafting intuitive and engaging UI & Visual experiences
+- Designing and improving CX/UX/UI Product Design systems
+- Building responsive and interactive Front-End applications (React, JavaScript, HTML, CSS)
+- Exploring Web3, Ethereum, and decentralized application development
+- Creating seamless integration between design, data, and intelligent systems
 
 <br>
 
