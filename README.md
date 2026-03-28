@@ -169,18 +169,9 @@
 ---
 
 
-<br>
-
-
-<div style="background-color:#1a1a1a; padding:50px; border-radius:15px; font-family:Arial, sans-serif; text-align:right;">
-
-  <!-- Typing AI line in bold brown, tech-style font, slightly bigger, aligned right -->
-  <div>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=A0522D&background=FFFFFF&width=1000&font_weight=bold&lines=Open+to+collaborating+on+frontend+%26+product+design" style="display:block; margin-left:auto; margin-right:0;" />
-  </div>
-
+<div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=A0522D&background=FFFFFF&width=1000&lines=Let%27s+collaborate+on+Data,+AI+%26+ML+Engineering,+UX%2FUI+Product+Design,+and+Front-End+%26+Web3" style="display:block; margin-left:auto; margin-right:0;" />
 </div>
-
 
 
 
