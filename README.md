@@ -13,7 +13,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&background=FFFFFF&width=820&lines=Data,+AI+%26+ML+%7C+UI+Specialist+%7C+CX%2FUX%2FUI+Designer+%7C+Web3+Dev)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&background=FFFFFF&width=820&lines=Data,+AI+%26+ML+%7C+UI+Specialist+%7C+CX%2FUX%2FUI+Developer+%7C+Web3+Dev)
 
 </div>
 
