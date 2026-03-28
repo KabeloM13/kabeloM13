@@ -69,16 +69,34 @@
 
 
 ## 🛠️ SKILLS
+
+### 💻 Front-End & Development
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### 🎨 UI / UX / Product Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![UI Design](https://img.shields.io/badge/UI%2FUX-Design-1E90FF?style=for-the-badge)
+![Product Design](https://img.shields.io/badge/Product-Design-6C63FF?style=for-the-badge)
+![Design Systems](https://img.shields.io/badge/Design-Systems-FF6B6B?style=for-the-badge)
+
+### 🧠 Data, AI & ML Engineering
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-FF9900?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data-Analysis-2ECC71?style=for-the-badge)
+
+### ⛓️ Web3 & Blockchain
+![Web3](https://img.shields.io/badge/Web3-3C3C3D?style=for-the-badge)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge)
+
+### 🔧 Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
-<br>
 
 
 ---
