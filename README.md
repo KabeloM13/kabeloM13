@@ -183,8 +183,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kabelo-m-9a0555128/)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/kabelomaitisa1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kabelodesigns777@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27652010253?text=Hi%20Kabelo%2C%20I%20came%20across%20your%20GitHub%20profile)
 [![Chill Wave Studio](https://img.shields.io/badge/Chill%20Wave%20Studio-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/8suoPIJekTQ?si=jtZ8MKrFGjm3krEO)
-
 
 <br>
 
