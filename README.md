@@ -31,7 +31,7 @@
 
   <p>
     I’m a <strong style="color: #1E90FF;">Data, AI & ML Engineering enthusiast</strong>, 
-    <strong style="color: #1E90FF;">UI & Visual Specialist</strong>, and 
+    <strong style="color: #1E90FF;">UI & Visual specialist</strong>, and 
     <strong style="color: #1E90FF;">UX/Product Designer</strong> from 
     <em>Johannesburg, South Africa</em>.
   </p>
