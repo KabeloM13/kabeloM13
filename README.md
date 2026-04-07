@@ -86,6 +86,9 @@
 ![Product Design](https://img.shields.io/badge/Product-Design-6C63FF?style=for-the-badge)
 ![Design Systems](https://img.shields.io/badge/Design-Systems-FF6B6B?style=for-the-badge)
 
+---
+
+
 ### 🧠 Data, AI & ML Engineering
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-FF9900?style=for-the-badge)
@@ -93,10 +96,14 @@
 ![OpenAI API](https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data-Analysis-2ECC71?style=for-the-badge)
 
+---
+
 ### ⛓️ Web3 & Blockchain
 ![Web3](https://img.shields.io/badge/Web3-3C3C3D?style=for-the-badge)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge)
+
+---
 
 ### 🔧 Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
