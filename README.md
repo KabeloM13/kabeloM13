@@ -43,7 +43,7 @@
   </p>
 
   <p>
-    With experience across <strong>UX/UI, product design, and front-end development</strong>, I focus on creating 
+    With experience across <strong>UX/UI, product design, UX writing, and front-end development</strong>, I focus on creating 
     <strong>intuitive, responsive, and meaningful digital products</strong> that solve real user problems.
   </p>
 
