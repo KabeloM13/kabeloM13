@@ -29,12 +29,13 @@
 
   <h2 style="color: #111111; font-size: 26px; margin-bottom: 16px;">👨‍💻 ABOUT ME</h2>
 
-  <p>
-    I’m a <strong style="color: #1E90FF;">Data, AI & ML Engineering enthusiast</strong>, 
-    <strong style="color: #1E90FF;">UI & Visual specialist</strong>, and 
-    <strong style="color: #1E90FF;">UX/Product Designer</strong> from 
-    <em>Johannesburg, South Africa</em>.
-  </p>
+<p>
+  I’m a <strong style="color: #1E90FF;">Data, AI & ML Engineering enthusiast</strong>, 
+  <strong style="color: #1E90FF;">UI & Visual Specialist</strong>, 
+  <strong style="color: #1E90FF;">UX/Product Designer</strong>, and 
+  <strong style="color: #1E90FF;">Digital Brand Strategist</strong> from 
+  <em>Johannesburg, South Africa</em>.
+</p>
 
   <p>
     I design and build <strong>user-centered digital experiences</strong>, combining 
